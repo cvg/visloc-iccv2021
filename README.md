@@ -2,7 +2,7 @@
 
 <img src="assets/logos.svg" width="40%"/>
 
-The [Computer Vision Group at ETH Zurich](http://www.cvg.ethz.ch/) and the [Microsoft Mixed Reality & AI Lab Zurich](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/) introduce a new dataset for visual localization with a focus on Augmented Reality scenarios. The data covers day & night illumination changes, large indoor & outdoor environments, and different sensor configurations for handheld and head-mounted devices.
+The [Computer Vision & Geometry Group at ETH Zurich](http://www.cvg.ethz.ch/) and the [Microsoft Mixed Reality & AI Lab Zurich](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/) introduce a new dataset for visual localization with a focus on Augmented Reality scenarios. The data covers day & night illumination changes, large indoor & outdoor environments, and different sensor configurations for handheld and head-mounted devices.
 
 This is a preview of a much larger dataset which will be released later. This preview is part of the challenge of the [ICCV 2021 workshop on Long-Term Visual Localization under Changing Conditions](https://sites.google.com/view/ltvl2021/).
 
