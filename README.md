@@ -82,9 +82,9 @@ This will create a submission file in `outputs/netvlad+superpoint+superglue/resu
 
 
 Once submitted to the benchmark, this should roughly give the following recall:
-| Method                       | Single-image queries | Rig queries        |
-| ---------------------------- | -------------------- | ------------------ |
-| NetVLAD+SuperPoint+SuperGlue | 41.0 / 51.7 / 57.7   | 70.0 / 74.3 / 75.0 |
+| Method                                                                            | Single-image queries | Rig queries        |
+| --------------------------------------------------------------------------------- | -------------------- | ------------------ |
+| [NetVLAD+SuperPoint+SuperGlue](https://www.visuallocalization.net/details/31514/) | 41.0 / 51.7 / 57.7   | 70.0 / 74.3 / 75.0 |
 
 for (orientation, distance) thresholds (1°, 10cm) / (2°, 25cm) / (5°, 1m).
 
