@@ -4,7 +4,8 @@
 
 The [Computer Vision & Geometry Group at ETH Zurich](http://www.cvg.ethz.ch/) and the [Microsoft Mixed Reality & AI Lab Zurich](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/) introduce a new dataset for visual localization with a focus on Augmented Reality scenarios. The data covers day & night illumination changes, large indoor & outdoor environments, and different sensor configurations for handheld and head-mounted devices.
 
-This is a preview of a much larger dataset which will be released later. This preview is part of the challenge of the [ICCV 2021 workshop on Long-Term Visual Localization under Changing Conditions](https://sites.google.com/view/ltvl2021/).
+> [!IMPORTANT]
+> This is a now-deprecated preview of our [follow-up and much larger LaMAR dataset](https://lamar.ethz.ch/), of which this preview is only a small subset. LaMAR includes lidar point clouds and meshes and high-frequency HoloLens & phone sensor streams that include images, depth, IMU, etc. Please use LaMAR instead of this preview, which was released for the [ICCV 2021 workshop on Long-Term Visual Localization under Changing Conditions](https://sites.google.com/view/ltvl2021/).
 
 <p align="center">
     <img src="assets/dense.jpg" width="50%"/><img src="assets/sparse.png" width="50%"/>
